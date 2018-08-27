@@ -6,5 +6,9 @@ Still work in progress
 2. Running
 3. Rigidbody gravity
 4. Take off Landing
+5. Chest Opening
+6. Camera Player
+7. Game Menu
+
 
 
