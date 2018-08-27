@@ -9,6 +9,8 @@ Still work in progress
 5. Chest Opening
 6. Camera Player
 7. Game Menu
+8. Get Stars
+9. Open Doors
 
 
 
