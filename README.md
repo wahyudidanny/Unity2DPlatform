@@ -11,6 +11,9 @@ Still work in progress
 7. Game Menu
 8. Get Stars
 9. Open Doors
+10. Keys
+11. Stars Count
+
 
 
 
