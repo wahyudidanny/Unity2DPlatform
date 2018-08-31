@@ -13,6 +13,8 @@ Still work in progress
 9. Open Doors
 10. Keys
 11. Stars Count
+12. Dialogs
+13. Start Count Scores
 
 
 
