@@ -19,6 +19,6 @@ Still work in progress
 15. Design Level one (on progress)
 16. Moving Platform
 17. Pause Menu
-18. UI Android moving
+18. UI Android moving (bug/not working yet)
 19. Background Sound
 20. UI android moving touch screen
