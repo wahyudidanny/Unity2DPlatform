@@ -21,4 +21,5 @@ Still work in progress
 17. Pause Menu
 18. UI Android moving (bug/not working yet)
 19. Background Sound
-20. UI android moving touch screen
+20. Background sound (update) / keep Playing 
+21. UI android moving touch screen
